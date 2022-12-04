@@ -1,4 +1,4 @@
-# Pet-Adoption-Page ⛪️
+# Pet-Adoption-Page 🏠
 > A landing page for an adoption center 🐈
 > Live demo [_here_](https://paulette-zaldivar-flores.github.io/Pet-Adoption-Page/).
 
